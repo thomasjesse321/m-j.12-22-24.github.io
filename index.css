@@ -1,0 +1,25 @@
+body {
+background: pink;
+}
+
+p {
+    color: rgb(219, 77, 77);
+}
+
+img {
+    border: outset;
+    border-color: rgb(230, 24, 202);
+    border-width: 5px;
+}
+
+h2 {
+    color: deeppink;
+}
+
+h1{
+    color: crimson;
+}
+
+h3{
+    color: maroon;
+}
